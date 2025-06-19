@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: will be updated
-- Live Site URL: https://github.com/dark1010101010/Bento-CSS-GRID.git
+- Live Site URL: https://dark1010101010.github.io/Bento-CSS-GRID/
 
 ## My process
 
